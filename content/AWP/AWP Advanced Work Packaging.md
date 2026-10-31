@@ -3,7 +3,7 @@ title: "AWP(Advanced Work Packaging) 문헌·사례 읽기 가이드"
 date: 2026-10-30
 status: 발행
 publish: true
-aliases: [awp-advances-work-packaging]
+aliases: [awp-advances-work-packaging, awp-advanced-work-packaging]
 tags: [AWP, WorkFacePlanning, 공정관리, 사례연구, LessonsLearned]
 ---
 

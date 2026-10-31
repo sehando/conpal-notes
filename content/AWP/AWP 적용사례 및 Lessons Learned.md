@@ -3,6 +3,7 @@ title: "AWP(Advanced Work Packaging) 적용사례 및 Lessons Learned"
 date: 2026-10-30
 status: 발행
 publish: true
+aliases: [awp-적용사례-및-lessons-learned]
 tags: [AWP, WorkFacePlanning, 공정관리, 원전, LessonsLearned]
 ---
 
