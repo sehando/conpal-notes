@@ -3,6 +3,7 @@ title: "AWP (Advanced Work Packaging)"
 date: 2026-10-31
 publish: true
 tags: [AWP]
+aliases: ["AWP", "AWP/index"]
 ---
 
 시공 순서(Path of Construction)를 기준으로 설계·구매·시공을 패키지 단위로 정렬하는 AWP 관련 노트 모음.
