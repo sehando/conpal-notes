@@ -13,9 +13,9 @@ tags: [AWP, 조달, VendorData, ROS, 원전]
 
 - 조달을 "납품"과 "설계 입력(Vendor Data)"의 두 흐름으로 분리 관리
 - 최초·최종 Delivery만 반영하던 구매 일정을 Tag·Lot별 현장 사용 가능 시점으로 상세화
-- 출처 : [[원전 건설 AWP 적용 계획]], [\[a\] 원전 건설 AWP 도입 계획](../../1%20기획·입찰%20단계/1-5%20공사%20수행전략%20수립/AWP/%5Ba%5D%20원전%20건설%20AWP%20도입%20계획.md)의 해당 부분 발췌·재구성
+- 출처 : [[원전 건설 AWP 적용 계획]], [[원전 건설 AWP 도입 계획]]의 해당 부분 발췌·재구성
 
-## 1. 구매 Milestone 체인
+## 1. 구매 Key Milestone 체인
 
 ```
 PO → Vendor Drawing 1차 제출 → [Certified Vendor Data] → 제작 → FAT → 선적 → [현장 입고(ROS)] → 설치 가능
@@ -42,12 +42,12 @@ PO → Vendor Drawing 1차 제출 → [Certified Vendor Data] → 제작 → FAT
 
 | 단계 | 상태 |
 |---|---|
-| 1 | 제작에 필요한 승인 |
-| 2 | 제작·검사 |
-| 3 | 출하 가능 |
-| 4 | 운송·현장 도착 |
-| 5 | 수입검사·문서 확인 |
-| 6 | 해당 작업용 배정 (사용 가능) |
+| 1 | Approved for Fabrication (제작 승인) |
+| 2 | Fabrication·Inspection |
+| 3 | Ready to Ship |
+| 4 | Delivered to Site |
+| 5 | Receiving Inspection·QA 문서 확인 |
+| 6 | Allocated to IWP (사용 가능) |
 
 - PO 분할 없이 PO 내 현장 사용 단위의 납품 그룹 정의 (예: A Zone 앵커·템플릿, B Zone 기기 본체·부속품)
 - 본체 도착 ≠ 설치 가능. 부속품·품질문서 미비 시 실행 불가

@@ -5,4 +5,4 @@ publish: true
 aliases: ["EPR지연분석", "EPR지연분석/index"]
 ---
 
-- [[EPR 초도호기 Plan·Actual·지연원인]] — Plan 대비 Actual 공기 배수, 일정 재조정 이력, 지연 원인, Milestone Trend Analysis
+- [[EPR 초도호기 지연원인 조사]] — 최초사업기간 대비 최종사업기간 증가율, 변경 이력, 지연 원인, Milestone Trend Analysis

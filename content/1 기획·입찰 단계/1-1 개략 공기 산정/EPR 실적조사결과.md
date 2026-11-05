@@ -12,17 +12,17 @@ tags: [EPR, 원전, 공정, Milestone, 실적]
 ## 요약
 
 - 대상: EPR 초도호기 4기 (Olkiluoto 3, Flamanville 3, Taishan 1, Hinkley Point C 1)
-- 용도: 개략 공기 산정용 유사 프로젝트 실적. 기준 D = 1st Concrete
-- 완공 3기 구간별 실적 범위
+- 용도: 프로젝트 실적 조사
+- 완공 3개 호기 Key Milestone 
 
-| 구간 | 범위 |
-|---|--:|
-| 구조물공사 (1st Concrete → Dome) | 24 ~ 67M |
-| Dome → RV Set | 6 ~ 9M |
-| RV Set → HFT | 62 ~ 95M |
-| HFT → Fuel Load | 4 ~ 51M |
-| Fuel Load → COD | 8 ~ 25M |
-| 합계 | 110 ~ 220M |
+| 구간                               |         범위 |
+| -------------------------------- | ---------: |
+| 1st Concrete → Dome Str. install |   24 ~ 67M |
+| Dome → RV Set                    |     6 ~ 9M |
+| RV Set → HFT                     |   62 ~ 95M |
+| HFT → Fuel Load                  |    4 ~ 51M |
+| Fuel Load → COD                  |    8 ~ 25M |
+| 합계                               | 110 ~ 220M |
 
 ## 1. Milestone 실적
 
@@ -57,13 +57,13 @@ tags: [EPR, 원전, 공정, Milestone, 실적]
 
 ![](EPR%20Milestone%20Timeline.png)
 
-## 4. 개략 공기 산정 활용
+## 4. EPR 개략 공기
 
-- 하한 기준 : Taishan 1의 110M (9년 2개월). 동일 노형 최단 실적
-- 편차 작은 구간 : Dome → RV Set (완공 3기 6~9M, HPC 1 12M). 개략 산정 시 고정값 적용 가능
-- 편차 큰 구간 : RV Set → HFT (최단·최장 차이 33M), HFT → Fuel Load (47M). 개략 산정 시 여유 반영 대상
+- 하한 기준 : Taishan 1의 110M (9년 2개월). 동일 노형 최단 실적, 다만 EPR 최초 운영호기로서 MEP완료 및 시운전 단계에서의 공기지연 발생.
+- 편차 작은 구간 : Dome → RV Set (완공 3기 6~9M, HPC 1 12M). 구조물 공사까지의 변수는 많지 않다.
+- 편차 큰 구간 : RV Set → HFT (최단·최장 차이 33M), HFT → Fuel Load (47M). MEP 및 시운전의 경우 사업주체, 규제기관, 국가 별로 큰 차이
 
-계획 대비 지연과 원인은 [[EPR 초도호기 Plan·Actual·지연원인]] 참조.
+지연 현황 및 원인은 [[EPR 초도호기 지연원인 조사]] 참조.
 
 ## 참고
 
