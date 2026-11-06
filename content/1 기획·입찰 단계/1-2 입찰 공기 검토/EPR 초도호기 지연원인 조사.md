@@ -143,6 +143,9 @@ tags:
 | 1st Concrete      | 2009.10 |       2009.10.26        |
 | Dome              |    –    |         2011.10         |
 | RV Set            |    –    |       2012.06.03        |
+| 1st System Turnover (10kV SWGR) | – | 2014.03.28 |
+| Initial Energization | – | 미공개 (2014.04~2015.12 추정) |
+| Cold Test 착수 | – | 2015.12.30 |
 | HFT 완료            |    –    | 2017.08~12 (CGN 공시 2건 사이) |
 | Fuel Load         |    –    |       2018.04.10        |
 | First Criticality |    –    |       2018.06.06        |
@@ -283,6 +286,8 @@ tags:
 
 **Taishan 1**
 - [Taishan NP site presentation, 2011 (OECD/NEA MDEP, TNPJVC)](https://www.oecd-nea.org/mdep/events/conf-2011/presentations/2.2.5%20HU%20TNPJVC.pdf)
+- [1호기 첫 System Turnover (10kV 배전반), 2014.03.28 (国家原子能机构)](https://www.caea.gov.cn/n6760338/n6760342/c6833686/content.html)
+- [1호기 Cold Test 착수 2015.12.30 (华南核与辐射安全监督站)](https://scro.mee.gov.cn/gzxc/hndqhdcfbt/201601/t20160108_324487.html)
 - [일정 조정 공시, 2015.11 (CGN, HKEX)](https://www.hkexnews.hk/listedco/listconews/sehk/2015/1127/ltn20151127768.pdf)
 - [China revises commissioning dates of EPRs, 2017.02 (WNN)](https://world-nuclear-news.org/Articles/China-revises-commissioning-dates-of-EPRs)
 - [HFT 진행 중, 2017.08 (CGN, HKEX)](https://www.hkexnews.hk/listedco/listconews/sehk/2017/0828/ltn20170828924.pdf)
